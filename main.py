@@ -37,5 +37,5 @@ if __name__ == '__main__':
             ],
             config = config,
         ):
-            print(r.content, end=" | ")
+            print(r.content)
 
